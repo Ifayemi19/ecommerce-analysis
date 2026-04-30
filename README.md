@@ -67,7 +67,7 @@ Chargement d’un échantillon du dataset pour optimiser les performances.
 
 ## Visualisation
 
-![Top Countries Sales](https://via.placeholder.com/600x300)
+![Top Countries Sales](./top_countries.png)
 
  Graphique : Top 10 pays par chiffre d’affaires
 
